@@ -74,11 +74,11 @@ Vous retrouvez le code assembleur du programme dans ./res/out.txt
 
 **Exécution simple**
 
-![Exécution simple](/images/verbose_exec.png)
+![Exécution simple](./images/verbose_exec.png)
 
 **Fichier de sortie assembleur**
 
-![Fichier de sortie assembleur](/images/res.png)
+![Fichier de sortie assembleur](./images/res.png)
 
 ## Mode debug
 
@@ -96,7 +96,7 @@ Vous pouver stopper l'éxécution du programme avec la commande *"quit"* ou *"q"
 
 **Exécution en mode débogage**
 
-![Exécution en mode débogage](/images/debug_exec.png)
+![Exécution en mode débogage](./images/debug_exec.png)
 
 # Programmes
 
