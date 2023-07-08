@@ -70,6 +70,15 @@ Le programme se termine automatiquement lorsqu'il lit 3 opérations NOP.
 
 Vous retrouvez le code assembleur du programme dans ./res/out.txt
 
+### Voici quelques exemples d'utilisation :
+
+**Exécution simple**
+
+![Exécution simple](/images/verbose_exec.png)
+
+**Fichier de sortie assembleur**
+
+![Fichier de sortie assembleur](/images/res.png)
 
 ## Mode debug
 
@@ -84,6 +93,10 @@ Utiliser les commandes indiquer pour afficher des valeurs du processeur.
 Vous pouver stopper l'éxécution du programme avec la commande *"quit"* ou *"q"*
 
 *Note : pas de mode "points d'arrêt" comme indiqué dans le sujet **TP1.pdf** car on estime qu'arrêter l'éxécution du code à chaque instructions dispense l'utiilisation de cette fonctionnalité.*
+
+**Exécution en mode débogage**
+
+![Exécution en mode débogage](/images/debug_exec.png)
 
 # Programmes
 
